@@ -1,0 +1,20 @@
+{
+  "display_name": "墨韵手机",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "index.css",
+  "author": "GUDGA",
+  "version": "1.0.0",
+  "auto_update": true,
+  "hooks": {
+    "install": "onInstall",
+    "update": "onUpdate",
+    "delete": "onDelete",
+    "enable": "onEnable",
+    "disable": "onDisable",
+    "activate": "onActivate"
+  }
+}
