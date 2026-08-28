@@ -7,7 +7,7 @@
   "js": "index.js",
   "css": "index.css",
   "author": "GUDGA",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "auto_update": true,
   "hooks": {
     "install": "onInstall",
